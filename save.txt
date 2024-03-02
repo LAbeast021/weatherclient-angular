@@ -334,3 +334,7 @@
 
 
 <router-outlet />
+
+
+
+	            git add CountryModel/CountryModel.csproj  CountryModel/obj/CountryModel.csproj.nuget.dgspec.json  CountryModel/obj/CountryModel.csproj.nuget.g.props  CountryModel/obj/CountryModel.csproj.nuget.g.targets  CountryModel/obj/Debug/net8.0/CountryModel.AssemblyInfo.cs  CountryModel/obj/Debug/net8.0/CountryModel.AssemblyInfoInputs.cache  CountryModel/obj/Debug/net8.0/CountryModel.GeneratedMSBuildEditorConfig.editorconfig  CountryModel/obj/Debug/net8.0/CountryModel.assets.cache  CountryModel/obj/project.assets.json  CountryModel/obj/project.nuget.cache  serverSideApplication/Controllers/WeatherForecastController.cs  serverSideApplication/Program.cs  serverSideApplication/WeatherForecast.cs  serverSideApplication/obj/Debug/net8.0/serverSideApplication.AssemblyInfo.cs  serverSideApplication/obj/Debug/net8.0/serverSideApplication.AssemblyInfoInputs.cache  serverSideApplication/obj/Debug/net8.0/serverSideApplication.GeneratedMSBuildEditorConfig.editorconfig  serverSideApplication/obj/Debug/net8.0/serverSideApplication.assets.cache  serverSideApplication/obj/project.assets.json  serverSideApplication/obj/project.nuget.cache  serverSideApplication/obj/serverSideApplication.csproj.nuget.dgspec.json  serverSideApplication/serverSideApplication.csproj
