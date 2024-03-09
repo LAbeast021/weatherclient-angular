@@ -7,14 +7,11 @@ import { MatToolbarModule } from '@angular/material/toolbar';
   selector: 'app-nav-bar',
   standalone: true,
   imports: [
-    RouterOutlet,
-    RouterLink,
-    RouterLinkActive,
-    MatIconModule,MatToolbarModule
+    RouterOutlet, RouterLink, RouterLinkActive, MatIconModule, MatToolbarModule, 
   ],
   templateUrl: './nav-bar.component.html',
   styleUrl: './nav-bar.component.css'
 })
 export class NavBarComponent {
-  
+
 }
