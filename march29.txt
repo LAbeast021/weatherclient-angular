@@ -1,0 +1,3 @@
+<ItemGroup>
+  <None Remove="appsettings.Development.json" />
+</ItemGroup>
